@@ -1,0 +1,2 @@
+# mariana.
+atividade pensamento computacional
